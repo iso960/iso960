@@ -1,7 +1,17 @@
-## 👋 Hi there
+<div align="center">
+  
+  <!-- 타이핑 효과 헤더 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=4D8BFF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+iso960;Python+%26+Frontend+%26+Flutter+Developer" alt="Typing SVG" />
 
-파이썬, 프론트엔드, 모바일까지 다루는 개발자입니다.  
-문제를 단순하게 정의하고, 재사용 가능한 코드로 해결하는 걸 좋아합니다.
+</div>
+
+---
+
+## 🔍 About Me
+
+- Inha Technical College, Computer Science, Class of 2024  
+- I enjoy turning complex problems into simple, reusable solutions.  
+- Interested in backend with Python, frontend with Vue.js, and mobile with Flutter.
 
 ---
 
