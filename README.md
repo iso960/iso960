@@ -9,6 +9,7 @@
 
 **Languages & Frameworks**
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
@@ -24,12 +25,18 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iso960&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iso960&layout=compact&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iso960&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iso960&layout=compact&theme=tokyonight" alt="Top Languages" height="160" />
+</div>
 
 ---
 
 ## 📫 Contact
 
-- GitHub: https://github.com/iso960
+- <a href="https://github.com/iso960">
+    <img src="https://img.shields.io/badge/GitHub-iso960-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub - iso960" />
+  </a>
+- <a href="mailto:iso960@naver.com">
+    <img src="https://img.shields.io/badge/Email-iso960@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white" alt="Email - iso960@naver.com" />
+  </a>
