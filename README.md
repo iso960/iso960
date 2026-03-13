@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4D8BFF,100:1E1E2E&amp;height=230&amp;section=header&amp;text=Welcome%20Soi%27s%20GitHub&amp;fontSize=40&amp;fontColor=FFFFFF&amp;fontAlignY=35&amp;desc=Python%20%26%20Frontend%20%26%20Flutter%20Developer&amp;descAlignY=60" alt="Welcome Soi's GitHub header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4D8BFF,100:1E1E2E&amp;height=230&amp;section=header&amp;text=Welcome%20Soi%27s%20GitHub&amp;fontSize=40&amp;fontColor=FFFFFF&amp;fontAlignY=35" alt="Welcome Soi's GitHub header" />
 </p>
 
 ---
