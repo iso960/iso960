@@ -1,9 +1,6 @@
-<div align="center">
-  
-  <!-- 타이핑 효과 헤더 -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=4D8BFF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+iso960;Python+%26+Frontend+%26+Flutter+Developer" alt="Typing SVG" />
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4D8BFF,100:1E1E2E&height=230&section=header&text=Welcome%20Soi%27s%20GitHub&fontSize=40&fontColor=FFFFFF&fontAlignY=35&desc=Python%20%26%20Frontend%20%26%20Flutter%20Developer&descAlignY=60" alt="Welcome Soi's GitHub header" />
+</p>
 
 ---
 
@@ -11,7 +8,6 @@
 
 - Inha Technical College, Computer Science, Class of 2024  
 - I enjoy turning complex problems into simple, reusable solutions.  
-- Interested in backend with Python, frontend with Vue.js, and mobile with Flutter.
 
 ---
 
