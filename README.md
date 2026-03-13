@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4D8BFF,100:1E1E2E&height=230&section=header&text=Welcome%20Soi%27s%20GitHub&fontSize=40&fontColor=FFFFFF&fontAlignY=35&desc=Python%20%26%20Frontend%20%26%20Flutter%20Developer&descAlignY=60" alt="Welcome Soi's GitHub header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4D8BFF,100:1E1E2E&amp;height=230&amp;section=header&amp;text=Welcome%20Soi%27s%20GitHub&amp;fontSize=40&amp;fontColor=FFFFFF&amp;fontAlignY=35&amp;desc=Python%20%26%20Frontend%20%26%20Flutter%20Developer&amp;descAlignY=60" alt="Welcome Soi's GitHub header" />
 </p>
 
 ---
@@ -32,8 +32,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iso960&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iso960&layout=compact&theme=tokyonight" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iso960&amp;show_icons=true&amp;theme=tokyonight" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iso960&amp;layout=compact&amp;theme=tokyonight" alt="Top Languages" height="160" />
 </div>
 
 ---
@@ -41,8 +41,8 @@
 ## 📫 Contact
 
 - <a href="https://github.com/iso960">
-    <img src="https://img.shields.io/badge/GitHub-iso960-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub - iso960" />
+    <img src="https://img.shields.io/badge/GitHub-iso960-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub - iso960" />
   </a>
 - <a href="mailto:iso960@naver.com">
-    <img src="https://img.shields.io/badge/Email-iso960@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white" alt="Email - iso960@naver.com" />
+    <img src="https://img.shields.io/badge/Email-iso960@naver.com-03C75A?style=flat-square&amp;logo=naver&amp;logoColor=white" alt="Email - iso960@naver.com" />
   </a>
