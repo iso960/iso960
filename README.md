@@ -7,7 +7,6 @@
 ## 🔍 About Me
 
 - Inha Technical College, Computer Science, Class of 2024  
-- I enjoy turning complex problems into simple, reusable solutions.  
 
 ---
 
