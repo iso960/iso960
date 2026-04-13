@@ -42,6 +42,4 @@
 - <a href="https://github.com/iso960">
     <img src="https://img.shields.io/badge/GitHub-iso960-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub - iso960" />
   </a>
-- <a href="mailto:isop960051@gmail.com">
-    <img src="https://img.shields.io/badge/Email-isop960051@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email - isop960051@gmail.com" />
-  </a>
+
