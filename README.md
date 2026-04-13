@@ -31,8 +31,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iso960&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iso960&layout=compact&theme=tokyonight" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=iso960&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iso960&layout=compact&theme=tokyonight" alt="Top Languages" height="160" />
 </div>
 
 ---
